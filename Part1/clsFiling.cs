@@ -27,7 +27,7 @@ namespace Security_P1
             }
         }
 
-
+//=======================================================================================
         public bool LoadTextFromFile(string Address, ref string Text)
         {
             string ReadStr = "";
